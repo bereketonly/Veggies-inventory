@@ -1,0 +1,18 @@
+{
+  "short_name": "Inventory",
+  "name": "Inventory file storage",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/Veggies-inventory/index.html",
+  "scope": "/Veggies-inventory/",
+  "background_color": "#2e7d32",
+  "theme_color": "#2e7d32",
+  "display": "standalone",
+  "orientation": "portrait"
+}
